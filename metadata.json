@@ -1,0 +1,6 @@
+{
+  "name": "Surat Cinta Ulang Tahun",
+  "description": "Web mobile surat cinta ulang tahun romantis bernuansa vintage burgundy dengan animasi interaktif, musik latar, galeri foto scrapbook, dan kado spesial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
